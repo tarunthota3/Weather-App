@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework03</string>
+    <string name="weather_key">
+	<your api-key here></string>
+</resources>
